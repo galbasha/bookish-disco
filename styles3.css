@@ -1,0 +1,39 @@
+styles
+ {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1;
+  }
+  
+  header {
+    background-color: rgb(173, 255, 255);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  nav ul li a:hover {
+    background-color: #1a1a1a;
+    color: #fff;
+  }
+  
